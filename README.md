@@ -1,5 +1,7 @@
 kim - The Kubernetes Image Manager
 ==================================
+![](https://avatars.githubusercontent.com/u/30601846?s=400&u=67315da6dd44ca714407a1ed74891f091b6d4bb6&v=4)
+
 
 ***STATUS: EXPERIMENT - Let us know what you think***
 
